@@ -1,0 +1,12 @@
+Solucion N1
+* R * * 
+* * * R 
+R * * * 
+* * R * 
+
+Solucion N2
+* * R * 
+R * * * 
+* * * R 
+* R * * 
+
