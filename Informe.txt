@@ -1,0 +1,6 @@
+Matias, de presupuesto actual 100, y de cedula 1111111111 ha comprado 
+ ningun celular todavia
+Lionel, de presupuesto actual 5000, y de cedula 2222222222 ha comprado 
+ ningun celular todavia
+Edward, de presupuesto actual 1500, y de cedula 3333333333 ha comprado 
+ ningun celular todavia
